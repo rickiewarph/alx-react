@@ -16,7 +16,7 @@
     "output",
     "webpack plugins"
   ],
-  "author": "Joseph Mahiuha",
+  "author": "rickiewarph",
   "license": "ISC",
   "devDependencies": {
     "webpack": "^5.93.0",
